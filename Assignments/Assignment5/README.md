@@ -1,0 +1,3 @@
+# Assignment 5: Quiz on Machine Learning Basics
+
+For Assignment 5, I completed a quiz on machine learning basics and scored 65 out of 100. The quiz covered various topics, including the history of machine learning, key concepts like supervised and unsupervised learning, and the use of libraries and frameworks. While I answered many questions correctly, there were some areas where I made mistakes, such as identifying the correct library for scientific computing and understanding certain frameworks. This quiz helped me identify areas where I need to improve my understanding, and I plan to review these topics further to strengthen my knowledge.

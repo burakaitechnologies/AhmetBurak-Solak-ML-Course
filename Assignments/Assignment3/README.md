@@ -1,0 +1,5 @@
+# Assignment 3: Cancer mRNA Vaccine Development
+
+For this assignment, we were asked to discuss how the proposed cancer mRNA vaccine might have been developed from a machine learning perspective. Here is my answer:
+
+I think the first step in making a cancer mRNA vaccine is to collect a huge amount of DNA data, both from different tumors and from lots of people. Tumors can be very bad, less harmful, or almost harmless, and people’s DNA makes them react differently to each one. With all that data, machine learning can find patterns, maybe with unsupervised learning, since we don’t always know the answers. For example, it could learn that people with “Type A” DNA react one way to a certain tumor, while people with “Type B” DNA react another way. Then vaccines could be matched to each person instead of giving everyone the same one. This would make treatment more personal, more effective, and avoid using the wrong vaccine.

@@ -1,0 +1,3 @@
+# Module 2 Lab Exercise: Tools Used in Machine Learning
+
+When I was checking the modules for doing this portfolio work, I saw Module 2 has this lab exercise. But since I didn't remember that we did this exercise as an assignment, I checked the dashboard and gradings. I couldn't find any lab for Module 2 or any assignment or late or non submitted warning. This means this module appeared after the due date passed, and this is a technical issue which is totally out of my control. I just wanted to explain the situation.

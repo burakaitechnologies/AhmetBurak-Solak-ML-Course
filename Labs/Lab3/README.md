@@ -1,0 +1,3 @@
+# Lab 3: ML Workflow & Learning Types
+
+In this lab, I worked on understanding the complete machine learning workflow and the differences between supervised, unsupervised, and reinforcement learning. I completed the Module_03_Lab_Exercise.ipynb notebook, which had 25 cells, and followed the steps to collect data, train models, and evaluate their performance. I also wrote a reflective journal to explain what I learned about the workflow and how different learning types are used in machine learning. This helped me understand how to apply the right learning type to different problems.
